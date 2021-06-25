@@ -1,4 +1,0 @@
-pulic void main {
-
-
-}
